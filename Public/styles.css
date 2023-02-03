@@ -1,0 +1,23 @@
+body{
+    padding: 0 50px;
+    margin: 10px 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    margin: 5px;
+}
+.inputHide {
+    display: none;
+}
+.inputShow {
+    display: block;
+}
+
+footer{
+    margin-top: auto;
+}
+
+
+
